@@ -1,0 +1,46 @@
+@font-face{
+    font-family: 'Cubic';
+    src: url(./Fonts/Yozai-Medium.ttf);
+}
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Cubic',微軟正黑體;
+    color: #cdcdcd;
+}
+
+body{
+    background-color: #252525;
+}
+
+header{
+    text-align: center;
+    padding: 30px;
+}
+
+section{
+    text-align: center;
+}
+
+h1{
+    font-size: 80px;
+}
+
+#number{
+    padding: 30px;
+    font-size: 36px;
+    color: #252525;
+    text-align: center;
+}
+
+button{
+    padding: 20px 80px;
+    margin-top: 20px;
+    color: #252525;
+    font-size: 24px;
+}
+
+.top{
+    padding: 50px 0;
+    font-size: 24px;
+}
